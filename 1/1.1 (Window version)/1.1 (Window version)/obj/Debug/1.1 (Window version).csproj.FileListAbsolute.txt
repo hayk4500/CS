@@ -1,0 +1,8 @@
+D:\IT\Git\CS\1\1.1 (Window version)\1.1 (Window version)\obj\Debug\1.1 (Window version).csproj.AssemblyReference.cache
+D:\IT\Git\CS\1\1.1 (Window version)\1.1 (Window version)\obj\Debug\1.1 (Window version).csproj.SuggestedBindingRedirects.cache
+D:\IT\Git\CS\1\1.1 (Window version)\1.1 (Window version)\obj\Debug\1.1 (Window version).csproj.CoreCompileInputs.cache
+D:\IT\Git\CS\1\1.1 (Window version)\1.1 (Window version)\bin\Debug\1.1 (Window version).exe.config
+D:\IT\Git\CS\1\1.1 (Window version)\1.1 (Window version)\bin\Debug\1.1 (Window version).exe
+D:\IT\Git\CS\1\1.1 (Window version)\1.1 (Window version)\bin\Debug\1.1 (Window version).pdb
+D:\IT\Git\CS\1\1.1 (Window version)\1.1 (Window version)\obj\Debug\1.1 (Window version).exe
+D:\IT\Git\CS\1\1.1 (Window version)\1.1 (Window version)\obj\Debug\1.1 (Window version).pdb
