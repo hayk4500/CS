@@ -1,0 +1,8 @@
+D:\IT\Git\CS\2\2.3\2.3\bin\Debug\2.3.exe.config
+D:\IT\Git\CS\2\2.3\2.3\bin\Debug\2.3.exe
+D:\IT\Git\CS\2\2.3\2.3\bin\Debug\2.3.pdb
+D:\IT\Git\CS\2\2.3\2.3\obj\Debug\2.3.csproj.AssemblyReference.cache
+D:\IT\Git\CS\2\2.3\2.3\obj\Debug\2.3.csproj.SuggestedBindingRedirects.cache
+D:\IT\Git\CS\2\2.3\2.3\obj\Debug\2.3.csproj.CoreCompileInputs.cache
+D:\IT\Git\CS\2\2.3\2.3\obj\Debug\2.3.exe
+D:\IT\Git\CS\2\2.3\2.3\obj\Debug\2.3.pdb

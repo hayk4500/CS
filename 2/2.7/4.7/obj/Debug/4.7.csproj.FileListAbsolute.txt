@@ -1,0 +1,8 @@
+D:\IT\Git\CS\2\4.7\4.7\bin\Debug\4.7.exe.config
+D:\IT\Git\CS\2\4.7\4.7\bin\Debug\4.7.exe
+D:\IT\Git\CS\2\4.7\4.7\bin\Debug\4.7.pdb
+D:\IT\Git\CS\2\4.7\4.7\obj\Debug\4.7.csproj.AssemblyReference.cache
+D:\IT\Git\CS\2\4.7\4.7\obj\Debug\4.7.csproj.SuggestedBindingRedirects.cache
+D:\IT\Git\CS\2\4.7\4.7\obj\Debug\4.7.csproj.CoreCompileInputs.cache
+D:\IT\Git\CS\2\4.7\4.7\obj\Debug\4.7.exe
+D:\IT\Git\CS\2\4.7\4.7\obj\Debug\4.7.pdb
